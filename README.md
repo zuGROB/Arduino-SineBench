@@ -1,5 +1,5 @@
 # Arduino-SineBench
-Simple benchmark for (almost?) any MCU you can flash
+Simple Arduino benchmark for (almost?) any MCU you can flash
 
 It just calculates a bunch of random sines. Thats all.
 
