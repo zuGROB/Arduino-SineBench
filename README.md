@@ -10,7 +10,8 @@ Here's some examples with default parameters:
 |ESP32|551324|551|0.5|@240MHz|
 |ESP32|792844|792|0.8|@160MHz|
 |LGT8F328P|17413526|17413|17|@32MHz|
-|STM32F401RCT6|777860|777|0.7|@84MHz|
+|STM32F401RCT6|777860|777|0.7|@84MHz, -Os optimization|
+|STM32F401RCT6|376148|376|0.3|@84MHz, -O3 LTO|
 
 
 _*You may also send your benchmarks!*_
